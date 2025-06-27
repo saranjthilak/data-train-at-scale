@@ -1,3 +1,26 @@
+# 🚀 Train at Scale: Cloud-Native Machine Learning
+
+This project demonstrates how to train machine learning models at **scale** using cloud infrastructure, containerization, and automation tools. It focuses on building reproducible, scalable, and cost-effective pipelines ideal for large datasets and production environments.
+
+## 🎯 Project Objectives
+
+- Train ML models on cloud compute instances efficiently
+- Containerize and deploy training code using Docker
+- Automate training pipelines via CLI or workflow schedulers
+- Log and track experiments (optional: MLflow)
+- Store trained models in cloud buckets (GCP/AWS/S3)
+
+## 🛠️ Tech Stack
+
+- Python 3.x
+- Scikit-learn / XGBoost / PyTorch
+- Docker
+- Cloud: GCP (Compute Engine, Cloud Storage) or AWS (EC2, S3)
+- Optional: MLflow, Airflow
+
+## 📁 Project Structure
+
+
 # ⛰ "Train At Scale" Unit 🗻
 
 In this unit, you will learn how to package the notebook provided by the Data Science team at WagonCab, and how to scale it so that it can be trained locally on the full dataset.
